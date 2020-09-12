@@ -3,6 +3,7 @@
  * OM SRI MAHA GANAPATHAYA NAMA
  * MY FIRST JAVA PROGRAM
  * ADITHYA KUMAR WROTE THIS ON 11 SEP 2020
+ * OPEN THIS IN ANY TEXT EDITOR
  * */
 import java.awt.Canvas;
 import java.awt.Graphics;
